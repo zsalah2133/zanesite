@@ -1,0 +1,369 @@
+
+
+
+<html>
+
+<title>
+Zane's Spam
+</title>
+
+<div style="background-image:url('space.jpg');padding:5px;width:1300px;height:2500px;border:1px solid black;">
+
+
+
+
+
+
+
+<center><img src="logo.jpg" alt="logo" style="width:600px;height:300px;"></center>
+
+<body>
+.
+</body>
+
+<body>
+
+
+<center>
+<div style="font-size:15px;background-color:tan;border:1px black;color:black;width:85%;height:7%;padding:2%;">
+
+<h1> &nbsp &nbsp  Top Records &nbsp &nbsp  &nbsp &nbsp &nbsp 
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp 
+&nbsp &nbsp
+
+
+
+March 2023
+&nbsp &nbsp
+ &nbsp &nbsp &nbsp &nbsp 
+ &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Top Artists</h1>
+   
+ 
+                        
+    <style>
+        p{text-align: left;}
+	
+    </style>
+</head>
+<body>
+
+    <style>
+        ol{text-align: left;}
+    </style>
+
+    <style>
+        h1{text-align: left;}
+    </style>
+    <p>
+
+
+<ol>
+<li> Heaven to a Tortured Mind
+&nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp 
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp 
+&nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+ &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp&nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp 
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp 
+&nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+ &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 1. Yves Tumor	</li>
+<li>	e
+&nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp 
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp 
+&nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+ &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp&nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp 
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp 
+&nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+ &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+ &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp&nbsp &nbsp&nbsp &nbsp 
+2. Cigarettes After Sex</li>
+<li>	Kid A
+&nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp 
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp 
+&nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+ &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp&nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp 
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp 
+&nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+ &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+ &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+3. Clairo</li>
+<li>	So Tonight That I May See &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp 
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp 
+&nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+ &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp&nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp 
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp 
+&nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+ &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp  &nbsp  &nbsp  
+4. Radiohead
+<li>	Cigarettes After Sex
+ &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp 
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp 
+&nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+ &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp&nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp 
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp 
+&nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+5. Faye Webster
+</li>
+</ol>
+
+</p>
+
+
+
+
+</center>
+</body>
+
+<center>
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>Slideshow Images</title>
+    <style>
+      .slider {
+        width: 500px;
+        height: 500px;
+        background-color: yellow;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 0px;
+        text-align: center;
+        overflow: hidden;
+      }
+      .image-container {
+        width: 1500px;
+        background-color: pink;
+        height: 500px;
+        clear: both;
+        position: relative;
+        -webkit-transition: left 2s;
+        -moz-transition: left 2s;
+        -o-transition: left 2s;
+        transition: left 2s;
+      }
+      .slide {
+        float: left;
+        margin: 0px;
+        padding: 0px;
+        position: relative;
+      }
+      #slide-1:target ~ .image-container {
+        left: 0px;
+      }
+      #slide-2:target ~ .image-container {
+        left: -500px;
+      }
+      #slide-3:target ~ .image-container {
+        left: -1000px;
+      }
+      .buttons {
+        position: relative;
+        top: -20px;
+      }
+      .buttons a {
+        display: inline-block;
+        height: 15px;
+        width: 15px;
+        border-radius: 50px;
+        background-color: grey;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="slider">
+      <span id="slide-1"></span>
+      <span id="slide-2"></span>
+      <span id="slide-3"></span>
+      <div class="image-container">
+        <img src="woods.jpg" class="slide" width="500" height="500" />
+        <img src="theospace.jpg" class="slide" width="500" height="500" />
+        <img src="radioheadmeme.jpg" class="slide" width="500" height="500" />
+      </div>
+      <div class="buttons">
+        <a href="#slide-1"></a>
+        <a href="#slide-2"></a>
+        <a href="#slide-3"></a>
+      </div>
+    </div>
+  </body>
+</html>
+
+<center><div style="background-color:black;padding:2%;">
+<div style="font-size:6px;background-color:beige;border:1px black;color:black;width:10%;height:1%;padding:2%;">
+<center><h1>photos 3/8/2023 </h1></center></center>
+
+
+<div>
+<!DOCTYPE html>
+<html>
+ <head>
+    <title>Slideshow Images</title>
+    <style>
+      .slider {
+        width: 500px;
+        height: 500px;
+        background-color: yellow;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 0px;
+        text-align: center;
+        overflow: hidden;
+      }
+      .image-container {
+        width: 1500px;
+        background-color: pink;
+        height: 500px;
+        clear: both;
+        position: relative;
+        -webkit-transition: left 2s;
+        -moz-transition: left 2s;
+        -o-transition: left 2s;
+        transition: left 2s;
+      }
+      .slide {
+        float: left;
+        margin: 0px;
+        padding: 0px;
+        position: relative;
+      }
+      #slide-4:target ~ .image-container {
+        left: 0px;
+      }
+      #slide-5:target ~ .image-container {
+        left: -500px;
+      }
+      #slide-6:target ~ .image-container {
+        left: -1000px;
+      }
+      .buttons {
+        position: relative;
+        top: -20px;
+      }
+      .buttons a {
+        display: inline-block;
+        height: 15px;
+        width: 15px;
+        border-radius: 50px;
+        background-color: grey;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="slider">
+      <span id="slide-4"></span>
+      <span id="slide-5"></span>
+      <span id="slide-6"></span>
+      <div class="image-container">
+        <img src="darkmoon.jpg" class="slide" width="500" height="500" />
+        <img src="blackpink.jpg" class="slide" width="500" height="500" />
+        <img src="fishing.jpg" class="slide" width="500" height="500" />
+      </div>
+      <div class="buttons">
+        <a href="#slide-4"></a>
+        <a href="#slide-5"></a>
+        <a href="#slide-6"></a>
+      </div>
+    </div>
+  </body>
+</html>
+<center><div style="background-color:black;padding:2%;">
+<div style="font-size:6px;background-color:beige;border:1px black;color:black;width:10%;height:1%;padding:2%;">
+<center><h1>photos 3/5/2023 </h1></center></center>
+
+
+
+<!DOCTYPE html>
+<html>
+ <head>
+    <title>Slideshow Images</title>
+    <style>
+      .slider {
+        width: 500px;
+        height: 500px;
+        background-color: yellow;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 0px;
+        text-align: center;
+        overflow: hidden;
+      }
+      .image-container {
+        width: 1500px;
+        background-color: pink;
+        height: 500px;
+        clear: both;
+        position: relative;
+        -webkit-transition: left 2s;
+        -moz-transition: left 2s;
+        -o-transition: left 2s;
+        transition: left 2s;
+      }
+      .slide {
+        float: left;
+        margin: 0px;
+        padding: 0px;
+        position: relative;
+      }
+      #slide-7:target ~ .image-container {
+        left: 0px;
+      }
+      #slide-8:target ~ .image-container {
+        left: -500px;
+      }
+      #slide-9:target ~ .image-container {
+        left: -1000px;
+      }
+      .buttons {
+        position: relative;
+        top: -20px;
+      }
+      .buttons a {
+        display: inline-block;
+        height: 15px;
+        width: 15px;
+        border-radius: 50px;
+        background-color: grey;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="slider">
+      <span id="slide-7"></span>
+      <span id="slide-8"></span>
+      <span id="slide-9"></span>
+      <div class="image-container">
+        <img src="lunchtable.jpg" class="slide" width="500" height="500" />
+        <img src="history3.jpg" class="slide" width="500" height="500" />
+        <img src="history2.jpg" class="slide" width="500" height="500" />
+      </div>
+      <div class="buttons">
+        <a href="#slide-7"></a>
+        <a href="#slide-8"></a>
+        <a href="#slide-9"></a>
+      </div>
+    </div>
+  </body>
+</html>
+<center><div style="background-color:black;padding:2%;">
+<div style="font-size:6px;background-color:beige;border:1px black;color:black;width:10%;height:1%;padding:2%;">
+<center><h1>photos from last year </h1></center></center>
+
+
+
+
+
+
+
+
+</html>
